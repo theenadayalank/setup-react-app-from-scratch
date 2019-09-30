@@ -1,0 +1,5 @@
+# Compiled Output path
+dist
+
+#package manager
+node_modules
